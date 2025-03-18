@@ -39,7 +39,7 @@ N'hésitez pas à me contacter pour discuter de projets ou d'opportunités de co
 
 ### 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats-trukls-projects.vercel.app/api?username=Trukl&show_icons=true&theme=default&locale=fr&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-trukls-projects.vercel.app/api?username=Trukl&show_icons=true&theme=default&locale=fr)
 ![Top Langs](https://github-readme-stats-trukls-projects.vercel.app/api/top-langs/?username=Trukl&layout=compact&theme=default&locale=fr)
 
 ---
