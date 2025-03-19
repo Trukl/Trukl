@@ -2,7 +2,9 @@
 
 ## 🚀 Développeur Fullstack JavaScript
 
-Passionné par le développement web et mobile, je crée des applications performantes et évolutives en utilisant les dernières technologies JavaScript.
+Développeur FullStack passionné avec 4 ans d'expérience dans le développement web et mobile. Reconnu pour mon autonomie, mon sérieux et ma rigueur, je combine expertise technique et créativité pour livrer des solutions innovantes.
+
+Spécialisé sur la stack JS, avec une solide expérience en React et Node.js, je suis constamment à la recherche de nouveaux défis pour élargir mes compétences et contribuer à des projets ambitieux.
 
 ### 🌐 Mon site personnel
 
@@ -10,7 +12,34 @@ Passionné par le développement web et mobile, je crée des applications perfor
 
 ### 💼 Expérience professionnelle
 
-- **NetDevices** - Développeur Fullstack (Full Remote)
+#### 🏢 NetDevices | Développeur Fullstack & Lead Backend
+
+📍 Full Remote - Paris
+📅 Janvier 2023 - Présent
+>
+> - Lead technique sur les projets backend
+> - Développement de projets web et mobiles innovants
+> - Conception et développement de solutions sur mesure
+
+#### 🏢 Socrate | Développeur Backend
+
+📍 Full Remote - Lille
+📅 Septembre 2020 - Novembre 2022
+>
+> - Conception et implémentation d'APIs REST robustes et évolutives
+> - Optimisation des performances et de la sécurité
+> - Mise en place d'une suite de tests d'intégration complète
+
+### 🚀 Projets Personnels
+
+#### 🐕 [DoggySafe](https://doggysafe.corentinminne.fr/) (En cours)
+>
+> Application communautaire pour les propriétaires de chiens
+> **Technologies:** React Native, Fastify, PostgreSQL
+>
+> - Carte interactive des dangers potentiels signalés par la communauté
+> - Intégration des informations sur les vétérinaires à proximité
+> - Interface utilisateur intuitive et performante
 
 ### 🛠️ Technologies & Compétences
 
