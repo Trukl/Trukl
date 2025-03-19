@@ -6,7 +6,7 @@ Passionné par le développement web et mobile, je crée des applications perfor
 
 ### 🌐 Mon site personnel
 
-[![Website](https://img.shields.io/badge/Mon%20site-www.corentinminne.fr-blue?style=for-the-badge&logo=arc)](https://www.corentinminne.fr)
+[![Website](https://img.shields.io/badge/Mon%20site-www.corentinminne.fr-blue?style=for-the-badge&logo=googlechrome)](https://www.corentinminne.fr)
 
 ### 💼 Expérience professionnelle
 
@@ -35,7 +35,7 @@ Passionné par le développement web et mobile, je crée des applications perfor
 N'hésitez pas à me contacter pour discuter de projets ou d'opportunités de collaboration !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-minne/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corentinm)
+[![Mon site](https://img.shields.io/badge/Mon%20site-100000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.corentinminne.fr)
 
 ### 📊 Statistiques GitHub
 
